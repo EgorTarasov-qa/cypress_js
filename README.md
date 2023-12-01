@@ -1,4 +1,4 @@
-# cypress_js
+# cypress.js
 Для запуска автотестов требуется:
 
 -Установить node.js: https://nodejs.org/en/download/
